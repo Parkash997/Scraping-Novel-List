@@ -4,7 +4,6 @@ Scrape URL list and novel status
 
 # Steps to initilize project :
 Step 1 > Go to the project directory.
-<br />
 
 Step 2 > Open Terminal and type "npm install" for installing dependency.
 
@@ -18,7 +17,7 @@ Step 6 > Congratulation, so far you didn't get any error, Now wait until the pro
 
 # (optional)
 
-Step 7 > If you're facing any error then check your internet connection or dependency version, Otherwise you can drop a mail.\
+Step 7 > If you're facing any error then check your internet connection or dependency version, Otherwise you can drop a mail.
 
 
 # Enjoy Happy Scraping
